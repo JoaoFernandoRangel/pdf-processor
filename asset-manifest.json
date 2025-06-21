@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdf-processor/static/css/main.78f2aa98.css",
+    "main.js": "/pdf-processor/static/js/main.8e87e146.js",
+    "static/js/453.42eeec9f.chunk.js": "/pdf-processor/static/js/453.42eeec9f.chunk.js",
+    "index.html": "/pdf-processor/index.html",
+    "main.78f2aa98.css.map": "/pdf-processor/static/css/main.78f2aa98.css.map",
+    "main.8e87e146.js.map": "/pdf-processor/static/js/main.8e87e146.js.map",
+    "453.42eeec9f.chunk.js.map": "/pdf-processor/static/js/453.42eeec9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f2aa98.css",
+    "static/js/main.8e87e146.js"
+  ]
+}
